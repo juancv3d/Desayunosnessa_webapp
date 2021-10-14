@@ -146,14 +146,6 @@ a,
 :focus {
   outline: 0;
 }
-#comprar{
-  background-color: #12c6f4;
-}
-#comprar:hover{
-  background-color: #13aed4;
-}
-
-}
 .btn-custom {
   margin-top: 20px;
   background-color: transparent !important;
@@ -216,7 +208,7 @@ button {
   margin-top: 20px !important;
 }
 .dark_bg {
-  background: #9932cc;
+  background: #b858e9;
 }
 .full {
   width: 100%;
@@ -244,7 +236,7 @@ button {
   font-weight: 400;
   position: relative;
   letter-spacing: -0.5px;
-  color: #9932cc;
+  color: #b858e9;
   border-left: solid #38c8a8 10px;
   padding-left: 15px;
 }
@@ -267,7 +259,7 @@ button {
 }
 .small_main_heading h2 {
   padding: 2px 0 20px 0;
-  color: #9932cc;
+  color: #b858e9;
   font-weight: 400;
   font-size: 28px;
   background-image: url("../images/fevicon.png");
@@ -280,7 +272,7 @@ button {
   font-weight: 600;
 }
 .main_bt {
-  background: #9932cc;
+  background: #a346d1;
   color: #fff;
   padding: 0;
   float: left;
@@ -412,7 +404,7 @@ a.readmore_bt {
 .header {
   background: #fff;
   padding: 21px 0px;
-  border-top: solid#9932CC 23px;
+  border-top: solid#b858e9 23px;
   position: relative;
 }
 .header::after {
@@ -941,7 +933,7 @@ nav.main-menu {
   background: #ffffff;
 }
 .main-menu ul > li .sub-down li a {
-  color: #9932cc;
+  color: #ac44e0;
   font-size: 15px;
   text-transform: capitalize;
   font-weight: 300;
@@ -1177,12 +1169,12 @@ nav.main-menu {
   padding-left: 15px;
 }
 .dark_bg {
-  background: #9932cc;
+  background: #b858e9;
 }
 /*--------------------------------------------------------------------- top banner area ---------------------------------------------------------------------*/
 .slider_section {
   min-height: 560px;
-  background: #9932cc;
+  background: #b858e9;
   position: relative;
 }
 .slider_section::after {
@@ -1469,7 +1461,6 @@ input[type="radio"] .styled:checked + label::after {
 .banner-main {
   position: relative;
 }
-
 .slider_section h1 {
   font-size: 65px;
   line-height: 65px;
@@ -1505,7 +1496,7 @@ input[type="radio"] .styled:checked + label::after {
   font-size: 45px;
   font-weight: 500;
   text-align: left;
-  color: #9932cc;
+  color: #b858e9;
 }
 .about .aboutimg {
   text-align: center;
@@ -1642,7 +1633,7 @@ input[type="radio"] .styled:checked + label::after {
   background-color: #fff;
 }
 .contact_form {
-  background: #9932cc;
+  background: #b858e9;
   padding: 45px;
 }
 .carousel-control-next {
@@ -1697,7 +1688,7 @@ input[type="radio"] .styled:checked + label::after {
   padding: 25px 25px;
   color: #fff;
   border-radius: 0;
-  background: #9932cc;
+  background: #b858e9;
   height: 75px;
   color: #fff;
   max-width: 568px;
@@ -1706,7 +1697,7 @@ input[type="radio"] .styled:checked + label::after {
 .form-control:focus,
 .form-control:hover {
   border: none !important;
-  background: #9932cc;
+  background: #b858e9;
 }
 .textarea {
   margin-bottom: 37px;
@@ -1716,7 +1707,7 @@ input[type="radio"] .styled:checked + label::after {
   border: none;
   border-radius: 0;
   min-height: 145px;
-  background: #9932cc;
+  background: #b858e9;
   width: 100%;
   font-size: 1rem;
   line-height: 1.5em;
@@ -1736,7 +1727,7 @@ input[type="radio"] .styled:checked + label::after {
   color: #fff;
 }
 .footer {
-  background-color: #9932cc;
+  background-color: #b858e9;
 }
 .footer .JJcoach {
   margin-top: 45px;
