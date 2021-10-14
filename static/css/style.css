@@ -53,7 +53,7 @@ h3,
 h4,
 h5,
 h6 {
-  letter-spacing: 0;
+  letter-spacing: 2;
   font-weight: normal;
   position: relative;
   padding: 0 0 10px 0;
@@ -145,6 +145,14 @@ a,
 }
 :focus {
   outline: 0;
+}
+#comprar{
+  background-color: #12c6f4;
+}
+#comprar:hover{
+  background-color: #13aed4;
+}
+
 }
 .btn-custom {
   margin-top: 20px;
@@ -1448,6 +1456,7 @@ input[type="radio"] .styled:checked + label::after {
   color: #fff;
 }
 /*--------------------------------------------------------------------- layout new css ---------------------------------------------------------------------*/
+
 .relative {
   position: absolute;
   right: 0;
@@ -1460,6 +1469,7 @@ input[type="radio"] .styled:checked + label::after {
 .banner-main {
   position: relative;
 }
+
 .slider_section h1 {
   font-size: 65px;
   line-height: 65px;
@@ -1472,7 +1482,7 @@ input[type="radio"] .styled:checked + label::after {
 .slider_section h1 strong.cur {
   font-size: 50px;
   line-height: 50px;
-  color: #5293b7;
+  color: #f8f8f8;
   font-weight: 400;
 }
 .slider_section p {
